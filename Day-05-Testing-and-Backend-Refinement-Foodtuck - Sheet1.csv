@@ -1,0 +1,9 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Security Level,Assigned To,Remarks
+,,,,,,,,
+T01,Items came from sanity perfectly,Open Shop page > See food items,Food items displayed correctly,Food items displayed correctly,Passed,High,-,No issue Found
+T02,Dynamic pages for each food,Click on a food > See dynamic page,Food is displayed correctly with all attributes,Food is displayed correctly with all attributes,Passed,High,-,Each item displayed dynamically
+T03,Add to cart functionality,Click on Add to cart button,Item succesfully added to cart ,Item succesfully added to cart ,Passed,High,-,Items added to cart
+T04,Check cart updates,Refresh browser ,Cart items should be stayed,Cart items should be stayed,Passed,High,-,Items stayyed after refreshing browser
+T05,Responsive across all device,Open inspect > Open mobile layout,Responsive layout across all device,Responsive layout across all device,Passed,Medium,-,Responsive across all devices
+T06,Pagination perfectly,Open each page,All pages are opened and working correctly,All pages are opened and working correctly,Passed,Medium,-,Pages working smoothly
+T07,Searching function,Search any item,Item displayed or Not found error,Cannot search items,Skipped,Low,-,"Cannot search product ""Skipped"" for now"
