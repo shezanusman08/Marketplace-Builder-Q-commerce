@@ -33,6 +33,19 @@ Welcome to the journey of building something amazing during this hackathon! This
 
 ---
 
+## **Day 4: Building a Dynamic Frontend**  
+**Focus:** Enhancing the frontend with dynamic features and interactivity.  
+
+### Outcome Checklist:  
+1. Develop a **Product Listing Page** with dynamic data from Sanity CMS or APIs.  
+2. Implement **Product Detail Pages** using dynamic routing.  
+3. Add features like **pagination** and **related products** for better user experience.  
+4. Integrate **Add to Cart Functionality** for seamless shopping.  
+5. Ensure **responsive styling** for a professional look across devices.  
+6. Build **modular and reusable components** for future scalability.  
+
+---
+
 ## **Day 5: Testing and Backend Refinement**  
 **Focus:** Foodtuck functionality.  
 
