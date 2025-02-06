@@ -64,6 +64,16 @@ Welcome to the journey of building something amazing during this hackathon! This
 
 ---
 
+## **Day 7: Pitch Deck**  
+### Outcome Checklist:  
+- Create a comprehensive **Pitch deck Presentation**.  
+- In this presentation i showed that how this platform solves your problems.
+
+---
+
+- **Resume/CV**: [https://drive.google.com/file/d/10TLD92ID-nJLdbWobPw_RTxe1PlOwcYa/view?usp=drivesdk/](#)  
+
+
 ## **Project Links**  
 - **Live Website**: [https://marketplace-technical-foundation-qcommerce-foodtuck.vercel.app/](#)  
 
